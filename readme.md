@@ -1,2 +1,2 @@
 This is my first commit
-I am taching git and learning merge
+I am taching git and learning merge and rebasing
